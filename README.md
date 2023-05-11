@@ -1,1 +1,1 @@
-![Grim reaper](img/grim_reaper.gif)
+![Eye](img/eye.gif)
