@@ -1,3 +1,8 @@
 <div align="center">
-    <img src="index.svg" alt="Markup" width="400" height="400">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif">
 </div>
